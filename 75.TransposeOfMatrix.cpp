@@ -5,7 +5,6 @@ int main()
 {
 	int r,c,i,j,k;
 	int A[5][5],B[5][5];
-	//int Transpose(int A[][5],int r,int c);
 	cout<<"Enter number of rows and columns of matrix:";
 	cin>>r;
 	cin>>c;
