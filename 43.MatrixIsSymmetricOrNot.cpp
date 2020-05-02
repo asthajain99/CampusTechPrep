@@ -22,7 +22,7 @@ int main()
 	for(i=0;i<r;i++)
 	{
 		for(j=0;j<c;j++)
-		    B[i][j]=A[i][j];
+		    B[j][i]=A[i][j];
 	}
 	cout<<"The transpose of the matrix is:\n";
 	for(i=0;i<c;i++)
