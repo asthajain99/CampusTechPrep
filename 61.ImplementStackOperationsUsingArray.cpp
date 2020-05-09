@@ -9,7 +9,6 @@ class Stack
 		void traverse();	
 		void push();
 		void pop();
-		//void display();
 };
 void Stack::traverse()
 {
